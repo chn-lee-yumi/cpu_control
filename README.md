@@ -12,5 +12,5 @@ Examples:
 cpu_control -online 0,1,2,3
 cpu_control -offline 4,5,6,7
 cpu_control -governor performance -policy policy0
-If using termux, try `sudo bash $0` to run on root.
+If using termux, try `sudo bash cpu_control` to run on root.
 ```
